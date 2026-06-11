@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "username": "Demo User",
+      "email": "demo@lifereel.ai",
+      "password_hash": "$2b$12$18SRaZ0sML6ja.MOWsZmMeck9UXNXCG9KVH.WqMInu6oA3pdzTr.2",
+      "created_at": "2026-06-11T14:21:48.809506+00:00",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80",
+      "streak": 5,
+      "_id": "6a2ac47c0eb85f6b8daa5cd7"
+    },
+    {
+      "username": "User A",
+      "email": "usera_df11a946@test.com",
+      "password_hash": "$2b$12$2NDLCKHVL87caXCFq0CsMeP9zNLFMSFhUfRDlCay/RlpciNBfiLEq",
+      "created_at": "2026-06-11T14:25:29.729917+00:00",
+      "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=150&h=150&q=80",
+      "streak": 1,
+      "_id": "6a2ac55981092c14479443e2"
+    },
+    {
+      "username": "User B",
+      "email": "userb_df11a946@test.com",
+      "password_hash": "$2b$12$GBbr6abwQhaoetUtJgWGWuVOTXHFVT.ihZrWZXByZeI1CZ3uiMHQW",
+      "created_at": "2026-06-11T14:25:31.990701+00:00",
+      "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=150&h=150&q=80",
+      "streak": 1,
+      "_id": "6a2ac55c81092c14479443e3"
+    },
+    {
+      "username": "User A",
+      "email": "usera_3de014af@test.com",
+      "password_hash": "$2b$12$vGeHA9EHYLgKbvgfTWrbdOQV2m.0Ljwl9xqX7UzaDDtEI66VZh/Je",
+      "created_at": "2026-06-11T14:26:07.102128+00:00",
+      "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=150&h=150&q=80",
+      "streak": 1,
+      "_id": "6a2ac57f81092c14479443e6"
+    },
+    {
+      "username": "User B",
+      "email": "userb_3de014af@test.com",
+      "password_hash": "$2b$12$9Jg5d7YYm1LQyd622PRVJuoCgM318MyKkVm61Lpwi7gBO7bUjWyvO",
+      "created_at": "2026-06-11T14:26:09.336738+00:00",
+      "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=150&h=150&q=80",
+      "streak": 1,
+      "_id": "6a2ac58181092c14479443e7"
+    },
+    {
+      "username": "sanvi",
+      "email": "sanvi@lifereel.ai",
+      "password_hash": "$2b$12$iSlq4kYPudYlNj.k.uGC9OxvftuaQoxtAONOtY3hVqF.TJiHNkQ46",
+      "created_at": "2026-06-11T14:28:25.736510+00:00",
+      "avatar": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=150&h=150&q=80",
+      "streak": 1,
+      "_id": "6a2ac60a81092c14479443ea"
+    }
+  ],
+  "journal_entries": [
+    {
+      "user_id": "6a2ac55981092c14479443e2",
+      "title": "Weaving Logic Into Light",
+      "transcript": "Today User A did some verification coding. It was very productive.",
+      "story": "The day unfolded with the quiet rhythm of focused creation as the lines of code began to align with purpose. Each verification brought a sense of clarity, turning complex puzzles into a tapestry of orderly success. There is a profound beauty in the steady hum of progress that anchors the spirit in accomplishment.",
+      "emotion": "Productive",
+      "characters": [
+        "User A"
+      ],
+      "scene_prompt": "An abstract, painterly depiction of glowing digital geometry merging with soft golden light, ethereal streams of data flowing like silk threads, warm ambient atmosphere, cinematic composition, oil on canvas style, soft focus background, no text or letters.",
+      "image_url": "https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?auto=format&fit=crop&w=800&q=80",
+      "created_at": "2026-06-11T14:25:41.058764+00:00",
+      "_id": "6a2ac56581092c14479443e4"
+    },
+    {
+      "user_id": "6a2ac55c81092c14479443e3",
+      "title": "A Quiet Morning Brew",
+      "transcript": "Today User B drank some delicious coffee. It was relaxing.",
+      "story": "The day begins with the gentle warmth of a perfectly crafted cup of coffee held in quiet contemplation. Each slow, mindful sip invites a profound sense of stillness to settle into the soul. In this fleeting moment of serenity, the world outside fades into a soft and peaceful blur.",
+      "emotion": "Calm",
+      "characters": [],
+      "scene_prompt": "A close-up shot of a steaming ceramic mug resting on a rustic wooden table, soft golden morning light filtering through a nearby window, particles of dust dancing in the sunbeams, painterly style with warm amber and soft brown tones, impressionistic brushstrokes, serene atmosphere, no text.",
+      "image_url": "https://images.unsplash.com/photo-1473081556163-2a17de81fc97?auto=format&fit=crop&w=800&q=80",
+      "created_at": "2026-06-11T14:25:44.816023+00:00",
+      "_id": "6a2ac56881092c14479443e5"
+    },
+    {
+      "user_id": "6a2ac58181092c14479443e7",
+      "title": "Quiet Morning Coffee Bliss",
+      "transcript": "Today User B drank some delicious coffee. It was relaxing.",
+      "story": "The day unfolds with a gentle, grounding ritual as a warm cup of coffee offers a moment of pure serenity. Each sip serves as a quiet embrace, allowing the world to slow down and find its natural rhythm. In this peaceful solitude, the simple act of presence becomes a beautiful sanctuary for the soul.",
+      "emotion": "Calm",
+      "characters": [],
+      "scene_prompt": "A close-up of a steaming ceramic mug resting on a sun-drenched wooden table, soft golden morning light filtering through a nearby window, ethereal dust motes dancing in the air, painterly style, impressionistic brushstrokes, serene atmosphere, cozy indoor setting, no text.",
+      "image_url": "https://images.unsplash.com/photo-1473081556163-2a17de81fc97?auto=format&fit=crop&w=800&q=80",
+      "created_at": "2026-06-11T14:26:21.302217+00:00",
+      "_id": "6a2ac58d81092c14479443e9"
+    },
+    {
+      "user_id": "6a2ac60a81092c14479443ea",
+      "title": "Sunlight on Dancing Grass",
+      "transcript": "today i played in the park and was very happy",
+      "story": "A gentle soul wandered into the heart of the park, finding solace in the simple rhythm of the day. Every step across the verdant landscape blossomed into a quiet celebration of existence. This moment of pure, unburdened delight became a soft melody held within the spirit.",
+      "emotion": "Joy",
+      "characters": [],
+      "scene_prompt": "A vibrant, lush public park bathed in soft golden hour sunlight, ethereal painterly style, impressionistic brushstrokes, long shadows across emerald grass, glowing atmosphere, cinematic lighting, no text, no letters, no words.",
+      "image_url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80",
+      "created_at": "2026-06-11T14:30:10.661562+00:00",
+      "_id": "6a2ac67281092c14479443eb"
+    },
+    {
+      "user_id": "6a2ac60a81092c14479443ea",
+      "title": "Sunlight and New Bonds",
+      "transcript": "i played in park today and made worderfull friends",
+      "story": "The afternoon unfolded within the gentle embrace of the park, where laughter danced upon the breeze. Kindred spirits crossed paths under the open sky, weaving the first threads of a beautiful new connection. Each moment shared became a cherished memory, blooming like a wildflower in the warmth of newfound companionship.",
+      "emotion": "Joy",
+      "characters": [
+        "new friends"
+      ],
+      "scene_prompt": "A lush, sun-drenched park with soft golden hour light filtering through vibrant green leaves, painterly brushstrokes, impressionistic style, ethereal atmosphere, focus on silhouettes of people laughing in the distance, no text, no letters.",
+      "image_url": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=800&q=80",
+      "created_at": "2026-06-11T14:34:22.528098+00:00",
+      "_id": "6a2ac76ee08445edb5372f5c"
+    },
+    {
+      "user_id": "6a2ac60a81092c14479443ea",
+      "title": "Whispers of the Quiet Soul",
+      "transcript": "",
+      "story": "She finds solace in the gentle rhythm of the passing day, allowing herself the grace to simply exist. Each breath carries away the weight of anticipation, replacing it with a soft, enduring peace. In the stillness of this moment, she discovers that her heart is exactly where it needs to be.",
+      "emotion": "Calm",
+      "characters": [],
+      "scene_prompt": "A cozy, sun-drenched reading nook with soft velvet cushions, a steaming ceramic mug on a weathered wooden side table, ethereal dust motes dancing in golden light, impressionistic brushstrokes, serene atmosphere, dreamlike quality, no text.",
+      "image_url": "/static/images/24f27a6b-914e-4888-bcfa-7659f78c2fbf.png",
+      "created_at": "2026-06-11T14:59:40.420255+00:00",
+      "_id": "6a2acd5c81571a42accc4d2b"
+    },
+    {
+      "user_id": "6a2ac60a81092c14479443ea",
+      "title": "Finding Beauty in Duty",
+      "transcript": "Eating the part you don't enjoy enjoying all",
+      "story": "They choose to embrace the mundane tasks that often feel burdensome, finding a quiet grace in the process. By shifting their perspective, they transform a moment of reluctance into an act of gentle acceptance. This simple shift allows them to weave contentment into the very fabric of their daily routine.",
+      "emotion": "Calm",
+      "characters": [],
+      "scene_prompt": "A serene, painterly interior scene bathed in soft, golden hour light filtering through a window, illuminating a simple wooden table with a single, half-finished cup of tea, warm ambient atmosphere, impressionistic brushstrokes, no text, no letters.",
+      "image_url": "/static/images/6b15f9ea-adff-4666-a427-73a2d9ecc4c7.png",
+      "created_at": "2026-06-11T14:59:50.620834+00:00",
+      "_id": "6a2acd6681571a42accc4d2c"
+    },
+    {
+      "user_id": "6a2ac60a81092c14479443ea",
+      "title": "Whispers of New Connection",
+      "transcript": "It is a path today and made a new friend and enjoyed a lot.",
+      "story": "A gentle wanderer finds delight in the simple beauty of an unfolding path. Along the way, a heart opens to the warmth of a newfound companionship that brightens the day. This unexpected bond blossoms like a quiet melody, leaving the soul feeling cherished and light.",
+      "emotion": "Joy",
+      "characters": [
+        "New friend"
+      ],
+      "scene_prompt": "A sun-dappled forest path winding through ancient trees with soft golden light filtering through vibrant green leaves, painterly impressionistic style, ethereal atmosphere, no text, high detail.",
+      "image_url": "/static/images/e1e8f564-6503-421c-b098-480224f156f5.png",
+      "created_at": "2026-06-11T15:01:24.504659+00:00",
+      "_id": "6a2acdc481571a42accc4d2d"
+    },
+    {
+      "user_id": "6a2ac60a81092c14479443ea",
+      "title": "New Souls Among Trees",
+      "transcript": "i played in the park and enjoyed a lot and made new friends",
+      "story": "A gentle afternoon spent in the park blossomed into a tapestry of shared laughter and newfound companionship. Each moment unfolded with the sweetness of unexpected connection under the open sky. The heart finds rest in the simple beauty of gathering with kindred spirits amidst the swaying leaves.",
+      "emotion": "Joy",
+      "characters": [
+        "new friends"
+      ],
+      "scene_prompt": "A sun-drenched public park with soft golden hour light filtering through vibrant green canopy leaves, painterly impressionistic style, ethereal dust motes dancing in the air, warm bokeh background, high quality, artistic masterpiece, no text, no letters.",
+      "image_url": "/static/images/6e62869b-51c6-4d63-b0dd-f49bbfdd4e2e.png",
+      "created_at": "2026-06-11T15:02:05.660831+00:00",
+      "_id": "6a2acded81571a42accc4d2e"
+    },
+    {
+      "user_id": "6a2ac47c0eb85f6b8daa5cd7",
+      "title": "Whispers of Warmth",
+      "transcript": "I had a wonderful day today. I spent the afternoon reading a cozy book at a local cafe and drinking hot chocolate. I feel very peaceful and calm.",
+      "story": "A quiet afternoon unfolded within the embrace of a sun-drenched cafe, where the simple pleasure of a story offered a sanctuary for the soul. With a steaming mug of cocoa warming their hands, a sense of deep serenity settled gently upon them. This moment of stillness served as a soft reminder of the beauty found in life's most tranquil intervals.",
+      "emotion": "Calm",
+      "characters": [],
+      "scene_prompt": "A cozy, sunlit cafe interior with soft golden light streaming through a window, a steaming ceramic mug of hot chocolate on a rustic wooden table, an open vintage book resting nearby, painterly style, warm ambient glow, soft focus, high detail, impressionistic textures, no text.",
+      "image_url": "/static/images/06400ebf-cba9-492b-a27d-a3b063935cfc.png",
+      "created_at": "2026-06-11T15:12:32.740107+00:00",
+      "_id": "6a2ad06081571a42accc4d2f"
+    }
+  ]
+}
