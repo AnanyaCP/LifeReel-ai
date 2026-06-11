@@ -7,6 +7,7 @@ python-multipart
 httpx
 requests
 pydantic
+pydantic-settings
 python-dotenv
 dnspython
 starlette
