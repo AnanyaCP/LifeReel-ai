@@ -7,8 +7,7 @@ export class AuthStore {
     this.tokenKey = 'lifereel_jwt_token';
     const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
     // Expose local backend securely to the Render frontend via ngrok
-    this.baseUrl = isLocal ? 'http://localhost:8000' : 'https://expediter-unpiloted-tidal.ngrok-free.dev';
-  }
+this.baseUrl = 'https://lifereel-ai-zfiu.onrender.com';  }
 
   getCurrentUser() {
     return JSON.parse(localStorage.getItem(this.userKey)) || null;

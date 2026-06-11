@@ -183,6 +183,18 @@
       "image_url": "/static/images/06400ebf-cba9-492b-a27d-a3b063935cfc.png",
       "created_at": "2026-06-11T15:12:32.740107+00:00",
       "_id": "6a2ad06081571a42accc4d2f"
+    },
+    {
+      "user_id": "6a2ac60a81092c14479443ea",
+      "title": "Whispers of Quiet Growth",
+      "transcript": "",
+      "story": "The traveler finds solace in the gentle rhythm of the passing day, allowing the weight of the world to soften into stillness. Each small action taken with intention becomes a quiet testament to their inner resilience and grace. They embrace the unfolding moment, trusting that beauty blooms most brightly in the hush of a peaceful heart.",
+      "emotion": "Calm",
+      "characters": [],
+      "scene_prompt": "A serene, sun-drenched sanctuary bathed in soft golden hour light, featuring a rustic wooden desk near a window with sheer curtains billowing in a gentle breeze, painterly impressionistic style, ethereal dust motes dancing in light beams, warm ambient glow, no text, high detail.",
+      "image_url": "/static/images/4b7d2285-c9fe-4050-9b8a-411ea249a181.png",
+      "created_at": "2026-06-11T16:27:55.280784+00:00",
+      "_id": "6a2ae20b81571a42accc4d30"
     }
   ]
 }
