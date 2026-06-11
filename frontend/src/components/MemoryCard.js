@@ -11,7 +11,7 @@ export class MemoryCard {
     const emotion = memory.emotion || memory.dominant_emotion || memory.mood || 'Calm';
     const story = memory.story || memory.narrative || '';
     const imageUrl = memory.image_url || memory.image || '';
-    const backendUrl = 'http://localhost:8000';
+    const backendUrl = 'https://lifereel-ai-zfiu.onrender.com';
     const resolvedImageUrl = imageUrl
       ? (imageUrl.startsWith('http') ? imageUrl : `${backendUrl}${imageUrl}`)
       : '';

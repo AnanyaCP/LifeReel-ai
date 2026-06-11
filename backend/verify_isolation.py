@@ -1,7 +1,7 @@
 import sys
 import httpx
 
-BASE_URL = "http://localhost:8000"
+BASE_URL = "https://lifereel-ai-zfiu.onrender.com"
 
 print("=" * 60)
 print("LifeReel AI – Per-User Isolation Verification Script")

@@ -19,7 +19,7 @@ export class MemoryTimelineCard {
     card.style.borderRadius = '24px';
     card.style.boxShadow = 'var(--glass-shadow)';
 
-    const backendUrl = 'http://localhost:8000';
+    const backendUrl = 'https://lifereel-ai-zfiu.onrender.com';
 
     // Resolve emotion from unified schema (emotion) or legacy (dominant_emotion)
     const emotion = memory.emotion || memory.dominant_emotion || 'Calm';
